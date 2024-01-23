@@ -6,7 +6,7 @@
   const kennedy = {
     pronouns: "she/her",
     age: 24,
-    code: [JavaScript, HTML, CSS, Python, SQL, C],
+    code: [JavaScript, Java, HTML, CSS, Python, SQL, C, C++],
     frameworks: [React, Express, Flask, Jinja2, Bootstrap],
     tools: ["AJAX", "RESTful APIs", "MySQL Workbench", "Figma"],
     hobbies: ["Video Games", "Traveling", "Concerts", "Watching Sports", "PC Building"]
